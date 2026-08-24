@@ -7,7 +7,7 @@ API REST desenvolvida com Java 25 e Spring Boot para listar candidatos de uma vo
 ```bash
 mvn spring-boot:run
 ```
-A aplicação utiliza a porta 8080.
+A aplicação utiliza a porta 8085.
 
 ## Rotas
 
