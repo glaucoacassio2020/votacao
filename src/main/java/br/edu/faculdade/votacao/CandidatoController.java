@@ -30,3 +30,4 @@ public class CandidatoController {
         return candidatos;
     }
 }
+

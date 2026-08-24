@@ -7,3 +7,4 @@ public record Candidato(
         int votos
 ) {
 }
+
