@@ -23,7 +23,7 @@ A aplicação utiliza a porta 8085.
 
 ### Candidato em destaque
 
-![Destaque](screenshots/destaque.png)
+![Destaque](screenshots/destaque.png?v=2)
 
 ### Lista de candidatos
 
