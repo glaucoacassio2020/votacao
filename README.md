@@ -15,7 +15,6 @@ A aplicação utiliza a porta 8085.
 2. `/destaque`: retorna um candidato em JSON.
 3. `/candidatos`: retorna todos os candidatos em JSON.
 
-
 ## Screenshots
 
 ### Boas-vindas
