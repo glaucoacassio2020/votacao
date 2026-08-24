@@ -15,6 +15,22 @@ A aplicação utiliza a porta 8085.
 2. `/destaque`: retorna um candidato em JSON.
 3. `/candidatos`: retorna todos os candidatos em JSON.
 
+
+## Screenshots
+
+### Boas-vindas
+
+![Boas-vindas](screenshots/boas-vindas.png)
+
+### Candidato em destaque
+
+![Destaque](screenshots/destaque.png)
+
+### Lista de candidatos
+
+![Candidatos](screenshots/candidatos.png)
+
+
 Perguntas do desafio
 
 Quem criou o controller?
