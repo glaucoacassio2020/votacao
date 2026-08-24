@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CandidatoController {
 
     private final List<Candidato> candidatos = List.of(
-            new Candidato("Glauco", "Partido do Java", 10, 150),
+            new Candidato("Glauco", "Partido do Java", 51, 150),
             new Candidato("Augusto Cury", "Partido Avante", 70, 120),
             new Candidato("Flavio Bolsonaro", "Partido Liberal", 22, 80),
             new Candidato("Lula", "Partido dos Trabalhadores", 13, 80)
